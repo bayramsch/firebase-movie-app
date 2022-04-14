@@ -83,7 +83,13 @@ Build a Movie App using ReactJS.
 - Step 6: Add project gif to your project and README.md file.
 
 ## Notes
+REACT_APP_apiKey=yourApiKey
+REACT_APP_authDomain=yourDomain
+REACT_APP_projectId=yourProjectId
+REACT_APP_storageBucket=yourBucket
+REACT_APP_messagingSenderId=yourSemderId
+REACT_APP_appId=yourAppId
+REACT_APP_TMDB_KEY=yourTMBDkey
 
-- You can add additional functionalities to your app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
